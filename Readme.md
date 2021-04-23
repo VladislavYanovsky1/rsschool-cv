@@ -1,1 +1,1 @@
- https://github.com/VladislavYanovsky1/rsschool-cv/cv.md
+ https://github.com/VladislavYanovsky1/rsschool-cv/cv
