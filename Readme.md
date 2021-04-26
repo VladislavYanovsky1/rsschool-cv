@@ -1,2 +1,2 @@
- https://github.com/VladislavYanovsky1/rsschool-cv/cv
+https://vladislavyanovsky1.github.io/rsschool-cv/cv
  
